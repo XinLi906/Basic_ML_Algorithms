@@ -4,7 +4,8 @@ This repository focus on detailed implementions of basic machine learning algori
 refer to Dr Li hang's book.
 
 Here is the link to the book if you need it.
-<http://item.jd.com/12385906.html>
 
-Currently process:
+**<http://item.jd.com/12385906.html>**
+
+Currently processing:
 - Perceptron        0%
