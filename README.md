@@ -7,5 +7,5 @@ Here is the link to the book if you need it.
 
 **<http://item.jd.com/12385906.html>**
 
-Currently process:
+Currently processing:
 - Perceptron        0%
